@@ -1,0 +1,31 @@
+body {
+  font-family: 'Times New Roman';
+  color: rgb(65,75,86);
+  margin: 0px;
+  text-align: center;
+  background-color: ##ffffff;
+
+}
+h2 {
+  font-family: 'Times New Roman';
+  color: rgb(65,75,86);
+  margin: 0px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+a {
+  font-family: 'Cambria';
+  color: rgb(65,75,86);
+  margin: 0px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Times New Roman';
+  color: rgb(65,75,86);
+  margin: 0px;
+  text-align: center;
+  background-color: #ffffff;
+  font-size: 1.5em;
+}
