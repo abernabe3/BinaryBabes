@@ -1,0 +1,83 @@
+body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #5c5c5c;
+  }
+  h1, h3 {
+    margin: 10px 0 30px 0;
+    letter-spacing: 10px;
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+  }
+  .nav-tabs li a {
+    color: #fcc0c5;
+     font-family: Montserrat, sans-serif;
+  }
+  .navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #fcc0c5;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+  }
+  .navbar li a, .navbar .navbar-brand {
+    color: #000000 !important;
+  }
+  .navbar-nav li a:hover {
+    color: #ffffff !important;
+  }
+  .navbar-nav li.active a {
+    color: #ffffff !important;
+    background-color: #29292c !important;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+  }
+  footer {
+    background-color: #fcc0c5;
+    color: #ffffff;
+    padding: 32px;
+  }
+  footer a {
+    color: #f5f5f5;
+  }
+  footer a:hover {
+    color: #777;
+    text-decoration: none;
+  }
+  .form-control {
+    border-radius: 0;
+  }
+  textarea {
+    resize: none;
+  }
+  .btn {
+    padding: 10px 20px;
+    background-color: #fcc0c5;
+    color: #ffffff;
+    border-radius: 0;
+    transition: .2s;
+  }
+  .btn:hover, .btn:focus {
+    border: 1px solid #000000;
+    background-color: #fcc0c5;
+    color: #000000;
+  }
+
+
+.row {
+  display: flex;
+  margin-left: 30px;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+#collapse {
+  margin-left: 0;
+}
